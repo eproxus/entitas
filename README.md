@@ -1,1 +1,1 @@
-This repositary has moved to https://github.com/wooga/go-entitas
+This repository has moved to https://github.com/wooga/go-entitas
